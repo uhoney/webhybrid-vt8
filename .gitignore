@@ -6,8 +6,8 @@
 
 
 # VSCode workspace settings
-**/.vscode
-.prettierrc
+# **/.vscode
+# .prettierrc
 
 # dependencies
 node_modules/
