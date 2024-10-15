@@ -1,5 +1,14 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
+# API-keys / env
+**/*.env
+**/.env*.local
+
+
+# VSCode workspace settings
+**/.vscode
+.prettierrc
+
 # dependencies
 node_modules/
 
