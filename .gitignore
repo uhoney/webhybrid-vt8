@@ -4,6 +4,10 @@
 **/*.env
 **/.env*.local
 
+# .vscode / prerrier
+*.vscode/
+*.prerrierrc
+
 # dependencies
 node_modules/
 
